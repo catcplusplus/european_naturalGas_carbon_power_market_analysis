@@ -1,4 +1,4 @@
-# European Cross-Commodity Risk Monitor
+# European Energy Cross-Commodity Monitor
 
 ## Setup for LLM/AI
 You can use any other AI tools for this part.
