@@ -1,6 +1,7 @@
 # European Cross-Commodity Risk Monitor
 
-## Setup
+## Setup for LLM/AI
+You can use any other AI tools for this part.
 
 ```bash
 pip install -r requirements.txt
